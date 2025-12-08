@@ -1,0 +1,30 @@
+addStudent: SUCCESS
+addStudent: SUCCESS
+addCourse: SUCCESS
+addCourse: SUCCESS
+enrollStudent: SUCCESS
+enrollStudent: SUCCESS
+enrollStudent: SUCCESS
+awardAcademicPoints: SUCCESS
+getStudentPoints: SUCCESS, 10
+getStudentPoints: SUCCESS, 10
+addStudent: SUCCESS
+getStudentPoints: SUCCESS, 0
+completeCourse: SUCCESS
+getStudentPoints: SUCCESS, 15
+enrollStudent: SUCCESS
+awardAcademicPoints: SUCCESS
+getStudentPoints: SUCCESS, 20
+getStudentPoints: SUCCESS, 15
+getStudentPoints: SUCCESS, 5
+completeCourse: SUCCESS
+completeCourse: SUCCESS
+completeCourse: SUCCESS
+getStudentPoints: SUCCESS, 30
+getStudentPoints: SUCCESS, 20
+getStudentPoints: SUCCESS, 15
+removeCourse: SUCCESS
+removeStudent: SUCCESS
+removeStudent: SUCCESS
+removeStudent: SUCCESS
+removeCourse: SUCCESS

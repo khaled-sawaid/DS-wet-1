@@ -1,0 +1,30 @@
+addStudent 1
+addStudent 2
+addCourse 100 5
+addCourse 200 10
+enrollStudent 1 100
+enrollStudent 2 100
+enrollStudent 1 200
+awardAcademicPoints 10
+getStudentPoints 1
+getStudentPoints 2
+addStudent 3
+getStudentPoints 3
+completeCourse 1 100
+getStudentPoints 1
+enrollStudent 3 200
+awardAcademicPoints 5
+getStudentPoints 1
+getStudentPoints 2
+getStudentPoints 3
+completeCourse 2 100
+completeCourse 1 200
+completeCourse 3 200
+getStudentPoints 1
+getStudentPoints 2
+getStudentPoints 3
+removeCourse 100
+removeStudent 1
+removeStudent 2
+removeStudent 3
+removeCourse 200

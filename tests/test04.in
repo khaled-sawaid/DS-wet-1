@@ -1,0 +1,49 @@
+addStudent -5
+addStudent 0
+addStudent 1
+addStudent 1
+removeStudent -1
+removeStudent 2
+addCourse -1 10
+addCourse 100 -5
+addCourse 100 0
+addCourse 100 20
+addCourse 100 20
+enrollStudent -1 100
+enrollStudent 1 -1
+enrollStudent 2 100
+enrollStudent 1 200
+enrollStudent 1 100
+enrollStudent 1 100
+awardAcademicPoints -5
+awardAcademicPoints 0
+getStudentPoints 1
+awardAcademicPoints 10
+getStudentPoints 1
+addStudent 2
+getStudentPoints 2
+enrollStudent 2 100
+removeStudent 2
+removeCourse 100
+completeCourse -1 100
+completeCourse 1 -1
+completeCourse 1 100
+completeCourse 1 100
+getStudentPoints 1
+awardAcademicPoints 5
+getStudentPoints 1
+getStudentPoints 2
+completeCourse 2 100
+getStudentPoints 2
+removeStudent 2
+removeCourse 100
+addStudent 3
+addCourse 200 50
+enrollStudent 3 200
+awardAcademicPoints 5
+getStudentPoints 3
+completeCourse 3 200
+getStudentPoints 3
+removeCourse 200
+removeStudent 3
+removeStudent 1

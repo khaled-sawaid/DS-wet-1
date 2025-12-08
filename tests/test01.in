@@ -1,0 +1,28 @@
+removeStudent 1
+removeCourse 1
+enrollStudent 1 1
+completeCourse 1 1
+getStudentPoints 1
+addStudent -1
+addStudent 0
+addCourse -1 5
+addCourse 0 5
+addCourse 1 -5
+addCourse 1 0
+awardAcademicPoints 0
+awardAcademicPoints -10
+addStudent 1
+addStudent 1
+addCourse 10 3
+addCourse 10 3
+enrollStudent 1 999
+enrollStudent 999 10
+enrollStudent 1 10
+enrollStudent 1 10
+removeStudent 1
+removeCourse 10
+completeCourse 1 10
+getStudentPoints 1
+removeCourse 10
+removeStudent 1
+getStudentPoints 1

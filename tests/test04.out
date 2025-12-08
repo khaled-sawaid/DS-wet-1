@@ -1,0 +1,49 @@
+addStudent: INVALID_INPUT
+addStudent: INVALID_INPUT
+addStudent: SUCCESS
+addStudent: FAILURE
+removeStudent: INVALID_INPUT
+removeStudent: FAILURE
+addCourse: INVALID_INPUT
+addCourse: INVALID_INPUT
+addCourse: INVALID_INPUT
+addCourse: SUCCESS
+addCourse: FAILURE
+enrollStudent: INVALID_INPUT
+enrollStudent: INVALID_INPUT
+enrollStudent: FAILURE
+enrollStudent: FAILURE
+enrollStudent: SUCCESS
+enrollStudent: FAILURE
+awardAcademicPoints: INVALID_INPUT
+awardAcademicPoints: INVALID_INPUT
+getStudentPoints: SUCCESS, 0
+awardAcademicPoints: SUCCESS
+getStudentPoints: SUCCESS, 10
+addStudent: SUCCESS
+getStudentPoints: SUCCESS, 0
+enrollStudent: SUCCESS
+removeStudent: FAILURE
+removeCourse: FAILURE
+completeCourse: INVALID_INPUT
+completeCourse: INVALID_INPUT
+completeCourse: SUCCESS
+completeCourse: FAILURE
+getStudentPoints: SUCCESS, 30
+awardAcademicPoints: SUCCESS
+getStudentPoints: SUCCESS, 35
+getStudentPoints: SUCCESS, 5
+completeCourse: SUCCESS
+getStudentPoints: SUCCESS, 25
+removeStudent: SUCCESS
+removeCourse: SUCCESS
+addStudent: SUCCESS
+addCourse: SUCCESS
+enrollStudent: SUCCESS
+awardAcademicPoints: SUCCESS
+getStudentPoints: SUCCESS, 5
+completeCourse: SUCCESS
+getStudentPoints: SUCCESS, 55
+removeCourse: SUCCESS
+removeStudent: SUCCESS
+removeStudent: SUCCESS
