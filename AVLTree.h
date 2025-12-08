@@ -131,14 +131,15 @@ private:
                 AVLNode* child = node->left ? node->left : node->right;
                 delete node;
                 return child;
+
             } else {
-                // Node with two children:
                 AVLNode* successor = minNode(node->right);
-                // Copy successor's data to this node
-                node->key = successor->key;
+                Key tempKey = successor->key;
+
+                node->key = tempKey;
                 node->value = successor->value;
-                // Delete successor
-                node->right = removeNode(node->right, successor->key, removed);
+
+                node->right = removeNode(node->right, tempKey, removed);
             }
         }
         return rebalance(node);
